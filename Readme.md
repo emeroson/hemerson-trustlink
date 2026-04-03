@@ -4,7 +4,7 @@
 
 Hemerson TrustLink est une application interactive développée en Python avec Streamlit, permettant d’analyser des transactions financières en temps réel afin de détecter les fraudes grâce à l’intelligence artificielle.
 
----
+
 
 ## 🧠 Objectif du projet
 
@@ -13,7 +13,7 @@ L’objectif est de concevoir un système intelligent capable de :
 - Évaluer le niveau de risque
 - Fournir une aide à la décision rapide et fiable
 
----
+
 
 ## ⚙️ Fonctionnalités principales
 
@@ -25,7 +25,7 @@ L’objectif est de concevoir un système intelligent capable de :
 - 💾 Historique des analyses
 - 📤 Export des données (CSV)
 
----
+
 
 ## 🧩 Technologies utilisées
 
@@ -35,7 +35,7 @@ L’objectif est de concevoir un système intelligent capable de :
 - Pandas / NumPy
 - Matplotlib / Seaborn
 
----
+
 
 ## 📊 Aperçu du système
 
@@ -47,19 +47,18 @@ Le système suit les étapes suivantes :
 5. Interprétation des résultats  
 6. Visualisation et analyse  
 
----
+
 
 ## 🌍 Déploiement
 
 L’application est déployée en ligne via Streamlit Cloud.
 
----
 
 ## 👨‍💻 Auteur
 
 **Anoh Amon Francklin Hemerson**
 
----
+
 
 ## 🎯 Cas d’utilisation
 
@@ -68,7 +67,7 @@ L’application est déployée en ligne via Streamlit Cloud.
 - Mobile Money
 - Télécommunications
 
----
+
 
 ## 💡 Valeur ajoutée
 
@@ -77,4 +76,6 @@ L’application est déployée en ligne via Streamlit Cloud.
 - Décision automatisée  
 - Visualisation claire des risques  
 
----
+## lien du site
+
+https://hemerson-trustlink-cdp4zzkfzgmji8byhxegng.streamlit.app/
